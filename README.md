@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=rigidwill666)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigidwill666&show=prs_merged&show_icons=true&theme=ambient_gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rigidwill666&layout=donut-vertical)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rigidwill666&left_color=gray&right_color=blue)
+![](https://stats.justsong.cn/api/csdn?id=rigidwill666&cn=true&theme=tokyonight)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=3000&color=240FAE&width=435&lines=C%2B%2B%2FPython%2FSQL+DL%2FCyberSecurity)](https://git.io/typing-svg)
+<!--
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rigidwill666)
+![trophy](https://github-profile-trophy.vercel.app/?username=rigidwill666)
+-->
