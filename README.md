@@ -1,6 +1,9 @@
 ## Hi there 👋
 ### This is Hu Manyue from China!
 
+![](https://komarev.com/ghpvc/?username=rigidwill666a&style=flat)
+[![Gmail](https://img.shields.io/badge/-manyuehu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:manyuehu6@gmail.com)
+
 Welcome to my Github page! I am a second-year graduate student majoring in Computer Science! 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=3000&color=240FAE&width=435&lines=C%2B%2B%2FPython%2FSQL+DL%2FCyberSecurity)](https://git.io/typing-svg)
@@ -29,15 +32,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rigidwill666&layout=donut-vertical&hide=smalltalk&theme=buefy)
+
 ![](https://stats.justsong.cn/api/csdn?id=rigidwill&cn=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rigidwill666)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigidwill666&show=prs_merged&show_icons=true&theme=ambient_gradient)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rigidwill666&layout=donut-vertical)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rigidwill666&left_color=gray&right_color=blue)
 
 <!--
 ![](https://stats.justsong.cn/api/leetcode?username=rigidwill&theme=light)
