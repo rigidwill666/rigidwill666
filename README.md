@@ -1,5 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
-## This is Hu Manyue from China!
+# This is Hu Manyue from China!
+<img align="right" src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="500">
 
 ![](https://komarev.com/ghpvc/?username=rigidwill666a&style=flat)
 [![Gmail](https://img.shields.io/badge/-manyuehu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:manyuehu6@gmail.com)
@@ -7,7 +8,7 @@
 Welcome to my Github page! I am a second-year graduate student majoring in Computer Science! 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=3000&color=240FAE&width=435&lines=console.log(%22Hello%2C%20World%22))](https://git.io/typing-svg)
-### Languages and Tools 
+## Languages and Tools 
 ![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![c](https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![cplusplus](https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -15,43 +16,31 @@ Welcome to my Github page! I am a second-year graduate student majoring in Compu
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![cmake](https://img.shields.io/badge/cmake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
+![opencv](https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![markdown](https://img.shields.io/badge/markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![pycharm](https://img.shields.io/badge/pycharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### 🌱 Things I am currently working on: 
+## 🌱 Things I am currently working on: 
 - Revise my first paper
 - Practice coding and study algorithms
 - Search for my first internship
 
-### :muscle: Things I am challenging myself with:
+## :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day😄
-- Exploring LLMs🔭
+- Exploring MultiModal Machine Learning🔭
 - Finding new research ideas🤔
 
+
+<div align="center" >
+<!-- 数据统计 -->
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=rigidwill666&show=prs_merged&show_icons=true&theme=ambient_gradient&layout=compact&hide_title=true&hide_border=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,4a90e2,52fa5a" />
+<img height="185px" src="https://stats.justsong.cn/api/csdn?id=rigidwill&cn=true&theme=tokyonight&card_width=520&show_level=true&hide_border=true" /><br>
+</div>
 <!--
-**rigidwill666/rigidwill666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![](https://stats.justsong.cn/api/csdn?id=rigidwill&cn=true&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigidwill666&show=prs_merged&show_icons=true&theme=ambient_gradient)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rigidwill666&layout=donut-vertical&hide=smalltalk&theme=buefy)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rigidwill666)
-
-<!--
 ![](https://stats.justsong.cn/api/leetcode?username=rigidwill&theme=light)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rigidwill666)
 ![trophy](https://github-profile-trophy.vercel.app/?username=rigidwill666)
