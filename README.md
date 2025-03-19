@@ -1,6 +1,5 @@
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
 # This is Hu Manyue from China!
-<img align="right" src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="500">
 
 ![](https://komarev.com/ghpvc/?username=rigidwill666a&style=flat)
 [![Gmail](https://img.shields.io/badge/-manyuehu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:manyuehu6@gmail.com)
@@ -32,11 +31,16 @@ Welcome to my Github page! I am a second-year graduate student majoring in Compu
 - Exploring MultiModal Machine Learning🔭
 - Finding new research ideas🤔
 
-
 <div align="center" >
 <!-- 数据统计 -->
 <img height="180px" src="https://github-readme-stats.vercel.app/api?username=rigidwill666&show=prs_merged&show_icons=true&theme=ambient_gradient&layout=compact&hide_title=true&hide_border=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,4a90e2,52fa5a" />
 <img height="185px" src="https://stats.justsong.cn/api/csdn?id=rigidwill&cn=true&theme=tokyonight&card_width=520&show_level=true&hide_border=true" /><br>
+</div>
+
+<div align="center" >
+   <picture>
+      <img align="right" src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="500">
+   </picture>
 </div>
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rigidwill666&layout=donut-vertical&hide=smalltalk&theme=buefy)
