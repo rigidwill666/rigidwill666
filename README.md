@@ -8,12 +8,6 @@ Welcome to my Github page! I am a second-year graduate student majoring in Compu
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=3000&color=240FAE&width=435&lines=console.log(%22Hello%2C%20World%22))](https://git.io/typing-svg)
 
-<div align="center" >
-   <picture>
-      <img align="right" src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="500">
-   </picture>
-</div>
-
 ## Languages and Tools 
 ![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![c](https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -39,9 +33,8 @@ Welcome to my Github page! I am a second-year graduate student majoring in Compu
 - Finding new research ideas🤔
 
 <div align="center" >
-<!-- 数据统计 -->
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=rigidwill666&show=prs_merged&show_icons=true&theme=ambient_gradient&layout=compact&hide_title=true&hide_border=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,4a90e2,52fa5a" />
-<img height="185px" src="https://stats.justsong.cn/api/csdn?id=rigidwill&cn=true&theme=tokyonight&card_width=520&show_level=true&hide_border=true" /><br>
+   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=rigidwill666&show=prs_merged&show_icons=true&theme=ambient_gradient&layout=compact&hide_title=true&hide_border=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,4a90e2,52fa5a" />
+   <img height="185px" width="360px" src="https://stats.justsong.cn/api/csdn?id=rigidwill&cn=true&theme=tokyonight&show_level=true&hide_border=true" /><br>
 </div>
 
 <!--
