@@ -33,7 +33,8 @@ Welcome to my Github page! I am a second-year graduate student majoring in Compu
 - Finding new research ideas🤔
 
 <div align="center" >
-   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=rigidwill666&show=prs_merged&show_icons=true&theme=ambient_gradient&layout=compact&hide_title=true&hide_border=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,4a90e2,52fa5a" />
+<!--   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=rigidwill666&show=prs_merged&show_icons=true&theme=ambient_gradient&layout=compact&hide_title=true&hide_border=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,4a90e2,52fa5a" />
+   -->
    <img height="185px" width="300px" src="https://stats.justsong.cn/api/csdn?id=rigidwill&cn=true&theme=tokyonight&show_level=true&hide_border=true" /><br>
 </div>
 
