@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=rigidwill666a&style=flat)
 [![Gmail](https://img.shields.io/badge/-manyuehu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:manyuehu6@gmail.com)
 
-Welcome to my Github page! I am a second-year graduate student majoring in Computer Science! 
+Welcome to my Github page! I am a third-year graduate student majoring in Computer Science! 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=3000&color=240FAE&width=435&lines=console.log(%22Hello%2C%20World%22))](https://git.io/typing-svg)
 
